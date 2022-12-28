@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  margin-top: 40px;
+}
+
+h3 {
+  margin-top: 20px;
+  text-transform: capitalize;
+}
+
+p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+input {
+  margin-top: 10px;
+}
+
+span {
+  margin-top: 20px;
+}
+
+.head {
+  text-align: center;
+}
+.head h3 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 20px;
+}
+.head p {
+  margin-bottom: 40px;
+}
+.head button {
+  width: 80px;
+  height: 30px;
+  border-radius: 20px;
+  border-color: blue;
+  background-color: white;
+  color: blue;
+  opacity: 0.8;
+}
+
+.green_1 {
+  color: green;
+}
+
+.all {
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  margin-left: 350px;
+}
+
+.photo1 {
+  margin-right: 60px;
+}/*# sourceMappingURL=figma_task1.css.map */

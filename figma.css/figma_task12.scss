@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width:150px;
+    height: 150px;
+    
+}
+h3{
+    margin-top: 10px;
+    text-transform: capitalize;
+}
+p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    opacity: .7;
+}
+a{
+    text-decoration: none;
+}
+ul{
+   list-style: none;
+   display: flex;
+}
+span{
+    margin-top:20px;
+}
+i{
+    margin-right: 20px;
+    font-size: 30px;
+}
+li{
+    margin-left: 10px;
+}
+.ruslan{
+    opacity: .5;
+    text-decoration: line-through;
+}
+
+.head{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.rehim{
+    display: flex;
+    margin-top: 23px;
+    margin-left: 600px;
+    margin-bottom: 10px;
+
+}
+.amin{
+    display: inline;
+    margin-left: 430px;
+
+    h3{
+        font-size: 26px;
+        text-transform: uppercase;
+    }
+}
+.nurlan{
+    margin-left: 600px;
+    
+    li{
+        opacity: .6;
+    }
+}
+.yemek{
+    margin-left: 30px;
+}
+.saat{
+    margin-left: 20px;
+}
+.globus{
+    margin-left: 8px;
+}
+
+.green_1{
+    color: green;
+}
+.all{
+   width: 60%;
+    display: flex;
+    text-align: center;
+    margin-left: 180px;
+    margin-top: 10px;
+}
+
+.photo1{
+margin-right: 10px;
+background-color: white;
+margin-top: 10px;
+padding: 20px 20px 10px;
+
+}
